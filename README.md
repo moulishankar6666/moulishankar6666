@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm MOULISHANKAR</h1>
+<h1 align="center">Hi 👋, I'm MOULISHANKAR MATHA</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **NXT TRENDS ONLINE SHOPPING App**
+- 🔭 I’m currently working on **New Fullstack and Fronted Projects**
 
 - 🌱 I’m currently learning **MERN FULL STACK COURSE,gsap,chart.js**
 
 - 💬 Ask me about **MERN FULL STACK COURSE**
 
 - 📫 How to reach me **moulishankar3669@gmail.com**
-
-- ⚡ Fun fact **I THINK IAM FUNNY . CREATE FUN IN ANY ONE IN PRESSURE AND RELAX THEM .**
+- ⚡ Fun fact **I mingle easily in the same way  I love make happy others. It acts as a stress buster  .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
